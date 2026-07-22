@@ -1,0 +1,17 @@
+{
+  "name": "engineering-standards",
+  "description": "Shared, stack-agnostic engineering standards distributed as auto-applying Claude Code skills.",
+  "owner": {
+    "name": "Mohit Singh",
+    "email": "qmohitsingh@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "standards",
+      "source": "./standards",
+      "description": "Stack-agnostic engineering standards as auto-applying skills. Currently: Postgres schema & naming. More stacks (Go, API design, git workflow) added over time.",
+      "version": "0.1.0",
+      "author": { "name": "Mohit Singh" }
+    }
+  ]
+}
