@@ -9,8 +9,8 @@
     {
       "name": "standards",
       "source": "./standards",
-      "description": "Stack-agnostic engineering standards as auto-applying skills. Currently: Postgres schema & naming. More stacks (Go, API design, git workflow) added over time.",
-      "version": "0.1.0",
+      "description": "Stack-agnostic engineering standards as auto-applying skills. Currently: Postgres schema & naming, directory-scoped git identity. More stacks (Go, API design) added over time.",
+      "version": "0.2.0",
       "author": { "name": "Mohit Singh" }
     }
   ]

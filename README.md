@@ -10,11 +10,12 @@ engineering-standards/                  ← this repo = the marketplace
 └── standards/                           ← one plugin, many skills
     ├── .claude-plugin/plugin.json
     ├── skills/
-    │   └── postgres/SKILL.md            ← /standards:postgres
+    │   ├── postgres/SKILL.md            ← /standards:postgres
+    │   └── git-identity/SKILL.md        ← /standards:git-identity
     └── templates/skill-template.md      ← copy to add a new standard
 ```
 
-Current skills: **postgres** (schema & naming). Planned: `go`, `api-design`, `git-workflow`.
+Current skills: **postgres** (schema & naming), **git-identity** (directory-scoped git accounts). Planned: `go`, `api-design`.
 
 ## Install (teammates)
 

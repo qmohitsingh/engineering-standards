@@ -1,7 +1,7 @@
 {
   "name": "standards",
-  "description": "Shared engineering standards Claude auto-applies across projects. Skills: postgres (schema & naming). More stacks added over time.",
-  "version": "0.1.0",
+  "description": "Shared engineering standards Claude auto-applies across projects. Skills: postgres (schema & naming), git-identity (directory-scoped git accounts). More stacks added over time.",
+  "version": "0.2.0",
   "author": { "name": "Mohit Singh" },
   "license": "MIT"
 }
